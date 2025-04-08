@@ -8,32 +8,32 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'dc'
+carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Image Processing with Python'
+title: 'Bioimage Analysis with Python'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2017-03-14'
+created: '2025-04-08'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'stable'
+life_cycle: 'pre-alpha'
 
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/datacarpentry/image-processing'
+source: 'https://github.com/carpentries-incubator/bioimage-analysis-python'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'marcodv93@gmail.com'
 
 # Navigation ------------------------------------------------
 #
@@ -84,6 +84,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://datacarpentry.github.io/image-processing'
+url: 'https://carpentries-incubator.github.io/bioimage-analysis-python'
 analytics: carpentries
 lang: en
