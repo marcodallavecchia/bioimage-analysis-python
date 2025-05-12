@@ -29,3 +29,10 @@ The Image Processing with Python lesson is currently being maintained by:
 - [Ulf Schiller](https://github.com/uschille)
 
 The lesson is built on content originally developed by [Mark Meysenburg](https://github.com/mmeysenburg), [Tessa Durham Brooks](https://github.com/tessalea), [Dominik Kutra](https://github.com/k-dominik), [Constantin Pape](https://github.com/constantinpape), and [Erin Becker](https://github.com/ebecker).
+
+## Acknowledgements
+![](https://avatars.githubusercontent.com/u/165169315?s=200&v=4)
+
+This lesson became a reality thanks to the many priceless contributions of the [GloBIAS expert community](https://www.globias.org/home). Learn [here](https://www.globias.org/activities/update-the-data-carpentries-bioimage-analysis-with-python-curriculum) how the whole initative started.
+
+Want to be involved with GloBIAS? Send us an email at [data_carpentry_python@globias.org](mailto:data_carpentry_python@globias.org) or [info@globias.org](mailto:info@globias.org)
