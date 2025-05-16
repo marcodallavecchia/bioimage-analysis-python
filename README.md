@@ -1,34 +1,31 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
-[![Slack Status](https://img.shields.io/badge/Slack_Channel-dc--image--processing-E01563.svg)](https://carpentries.slack.com/archives/C027H977ZGU)
+# Bioimage analysis with Python
 
-# Image Processing with Python
+A lesson teaching fundamentals of bioimage analysis with Python focused on fluorescence microscopy derived from the original [Image Processing with Python](https://github.com/datacarpentry/image-processing) lesson.
 
-A lesson teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/).
+This is lesson is **currently under heavy development**. Keep an eye of the [Issues](https://github.com/carpentries-incubator/bioimage-analysis-python/issues) and Pull Requests to see what is being worked on.
 
 ## Lesson Content
 
-This lesson introduces fundamental concepts in image handling and processing. Learners will gain the skills needed to load images into Python, to select, summarise, and modify specific regions in these image, and to identify and extract objects within an image for further analysis.
+The lesson content is still being developed. 
 
-The lesson assumes a working knowledge of Python and some previous exposure to the Bash shell.
-A detailed list of prerequisites can be found in [`learners/prereqs.md`](learners/prereqs.md).
+See the [CodiMD document](https://codimd.carpentries.org/_XWgpty6Q06VpTmBUA4CWw?edit) written together in our first in-person workshop to see current ideas.
 
 ## Contribution
 
-- Make a suggestion or correct an error by [raising an Issue](https://github.com/datacarpentry/image-processing/issues).
+Make a suggestion or correct an error by [raising an Issue](https://github.com/carpentries-incubator/bioimage-analysis-python/issues).
 
 ## Code of Conduct
 
-All participants should agree to abide by the [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+All participants should agree to abide by the [The Carpentries Code of Conduct](https://carpentrieshandbook.readthedocs.io/en/latest/topic_folders/policies/code-of-conduct.html).
 
 ## Lesson Maintainers
 
 The Image Processing with Python lesson is currently being maintained by:
 
-- [Jacob Deppen](https://github.com/deppen8)
-- [Kimberly Meechan](https://github.com/K-Meech)
-- [Ulf Schiller](https://github.com/uschille)
+- [Marco Dalla Vecchia](https://github.com/marcodallavecchia)
+- [Tereza Belinova](https://github.com/terezbelinova)
 
-The lesson is built on content originally developed by [Mark Meysenburg](https://github.com/mmeysenburg), [Tessa Durham Brooks](https://github.com/tessalea), [Dominik Kutra](https://github.com/k-dominik), [Constantin Pape](https://github.com/constantinpape), and [Erin Becker](https://github.com/ebecker).
+The lesson is built on the original [Image Processing with Python](https://github.com/datacarpentry/image-processing) lesson content originally developed by [Mark Meysenburg](https://github.com/mmeysenburg), [Tessa Durham Brooks](https://github.com/tessalea), [Dominik Kutra](https://github.com/k-dominik), [Constantin Pape](https://github.com/constantinpape), and [Erin Becker](https://github.com/ebecker).
 
 ## Acknowledgements
 ![](https://avatars.githubusercontent.com/u/165169315?s=200&v=4)
