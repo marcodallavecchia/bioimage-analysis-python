@@ -23,19 +23,15 @@ exercises: 50
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Different needs for different analysis
-
-
-
 :::::::::::::::::::::::::::::::::::::::::::::::::: challenge
 
-## Semantic segmentation, instance segmentation or detection? (10 min)
+## Semantic segmentation, instance segmentation or object detection? (10 min)
 
 Individually or in small groups, discuss and argument which approach (_semantic segmentation_, _instance segmentation_ or _object detection_) is more appropriate for the following scenarios.
 
 ### Scenario 1
 
-> You work for a toys manufacturing company and need to parse many images of your newest product: glass marbles. Your goal is **to count the number of marbles** in an image and **how many of them are colored blue**.
+> You work for a toy manufacturing company and need to process multiple images of your newest product: glass marbles. Your goal is to **count the total number of marbles** in each image and **determine how many are blue**.
 
 ![A sample image of the manufactured marbles.](fig/beads.jpg){alt='Image with different colored glass marbles'}
 
@@ -50,19 +46,19 @@ Individually or in small groups, discuss and argument which approach (_semantic 
 
 ### Scenario 3
 
-> In order to estimate the bacteria growth rate from a standardized test, you are asked to evaluate **the fraction of agar plate in an image is covered by bacterial colonies**.
+> In order to estimate bacteria growth rate from a series standardized tests, you are asked to evaluate **the fraction of agar plate in an image covered by bacterial colonies**.
 
 ![A sample image of bacterial colonies growing on an agar plate.](fig/colonies-03.jpg){alt='Image of an agar plate with bacterial colonies'}
 
 ### Scenario 4
 
-> To help improving a jigsaw puzzle solving algorithm, you need to be able to count **how many triangular shapes are present** in an image
+> To help improving a jigsaw puzzle solving algorithm, you need to be able to count **how many triangular shapes are present** in a benchmarking image.
 
 ![A sample image of different shapes.](fig/shapes-01.jpg){alt='Image with different colored paper shapes'}
 
 ### Scenario 5
 
-> Your local history museum has asked you to help them to sort through their vast coin collection. They are particularly interested in the size and diameter of each coin for each image.
+> Your local history museum has asked you to help them to sort through their vast coin collection. They are particularly interested in **the size and diameter of each coin** for each image.
 
 ![A sample picture of the museum coin collection.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/France_-_coins_5_centimes.jpg/960px-France_-_coins_5_centimes.jpg){alt='Image of several historical coins layed next to each other'}
 
