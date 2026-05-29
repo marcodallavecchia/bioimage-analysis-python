@@ -60,6 +60,7 @@ Individually or in small groups, discuss and argument which approach (_semantic 
 
 > Your local history museum has asked you to help them to sort through their vast coin collection. They are particularly interested in **the size and diameter of each coin** for each image.
 
+<!-- wikimedia commons image CC0 license -->
 ![A sample picture of the museum coin collection.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/France_-_coins_5_centimes.jpg/960px-France_-_coins_5_centimes.jpg){alt='Image of several historical coins layed next to each other'}
 
 :::::::::::::::  solution
